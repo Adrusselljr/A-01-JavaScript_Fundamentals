@@ -1,16 +1,17 @@
 1. What is a javascript function? 
-
+set of statements that perform a task, takes in an input and returns an output
 
 2. What is a callback?
-
+a function which is called inside another funtion as an argument
 
 3. can callbacks only be used in asynchronous code?
-
+no, they can be used in asynchronous and synchronous code
 
 4. Why are javascript functions first-class citizens?
-
+because functions can do everything
 
 5. Explain javascript Closures?
-
+a callback that can use variables from a different file
 
 6. explain try/catch blocks
+try statement allows you to define a block of code to be tested for errors while it is being executed. The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
